@@ -1,2 +1,2 @@
 # dogchain
-My information security presentations. 
+Information security presentations by Daeshon Jones
